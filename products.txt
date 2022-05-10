@@ -1,0 +1,100 @@
+COMPUTERS
+Acer Laptop
+989.0
+99
+
+FURNITURE
+Apex Desk
+1378.0
+12
+
+BOOKS
+Book
+45.0
+4 2
+Ahm Gonna Make You Learn:T. McInerney:2021
+CLOTHING
+DadBod Jeans
+24.0
+50
+
+CLOTHING
+Polo High Socks
+5.0
+199
+
+CLOTHING
+Tightie Whities
+15.0
+99
+
+BOOKS
+Book
+35.0
+4 2
+How to Fool Your Prof:D. Umbast:1997
+BOOKS
+Book
+45.0
+4 2
+How to Escape from Prison:A. Fugitive:1963
+BOOKS
+Book
+45.0
+4 2
+How to Teach Programming:T. McInerney:2001
+GENERAL
+Rock Hammer
+10.0
+22
+
+BOOKS
+Book
+45.0
+4 2
+Ahm Gonna Make You Learn More:T. McInerney:2022
+SHOES
+Air Force 1s
+135.0
+1 2 3 4 5 6 7 8 9 10 
+
+SHOES
+Crocs
+45.0
+4 2 3 5 1 4 2 3 4 2
+
+SHOES
+Vans
+55.0 
+7 100 60 8 30 10 5 65 45 5
+
+SHOES
+Timberlands
+145.0
+9 10 11 12 5 4 3 2 1 20
+
+BOOKS
+Book
+35.0
+4 2 
+How to Pass CPS 209:I. Dunno:2005
+BOOKS
+Book
+45.0
+4 2
+How to Print Hello World:D. Umbast:2000
+BOOKS
+Book
+44.0
+14 12
+Screaming Shouting Crying:D. Umbast:1999
+BOOKS
+Book
+44.0
+14 30
+Dating 101:D. Umbast:1965
+BOOKS
+Book
+24.0
+25 8
+Am I Going to Succeed:I. Dunno:1995
